@@ -1,0 +1,48 @@
+brutus.py runs a user defined dictionary as a dictionary attack against gifshuffle using gifshuffle. 
+
+debian installer and exe not provided by nokocode, use at own disgression.
+
+
+=======================================================
+installation instructions
+=======================================================
+
+
+===========================linux=======================
+
+for debian based distros (debian, ubuntu, kubuntu, mint): double click package, you know how it is, change directory to where you unzipped this directory
+
+type in "python brutus.py"
+
+for all other distros: the source code can be found here
+http://www.darkside.com.au/gifshuffle/
+extract->open terminal here -> ./configure -> make (that should work, if not... don't know what to tell you).
+
+
+
+=============================Windows=====================
+
+for windows users: you must have python 2.7 installed
+once installed on your computer open your cmd prompt and 
+change to the directory you extracted the files to using 
+cd (change directory) followed by the path relative to it 
+until you are in the right directory
+then type "python brutus.py" followed by enter. 
+
+
+=======================bsd / mac os======================
+compile from source from here http://www.darkside.com.au/gifshuffle/
+run in terminal after installing python "python brutus.py"
+
+=======================haiku=============================
+you don't always get
+software packages in life
+I am so so sorry
+
+======================dos================================
+buy wine
+drink bottle
+cry self to sleep
+
+=======================comodore 64=======================
+really?
